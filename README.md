@@ -12,4 +12,5 @@ A prototype of the program was done on Excel using VBA, and is show below:
 ![image](https://user-images.githubusercontent.com/74056437/156272208-2c4bf1e1-dc36-47d0-8f04-df007a3c9224.png)
 
 
-As this is a work in progress, future changes will be made to this documents!
+The final version of the program is shown below. It allows copying the pronunciation results to the clipboard
+![image](https://user-images.githubusercontent.com/74056437/156954543-993a4bd6-04b8-414b-8104-67859a9f6673.png)
